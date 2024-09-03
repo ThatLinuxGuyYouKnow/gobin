@@ -2,7 +2,7 @@
 
 ## Introduction
 
-GoBin is a revolutionary app that leverages the power of AI and Google Maps to provide you with accurate, up-to-date, and geographically relevant waste disposal guidance. Whether you're looking for the nearest recycling center, want to know the best way to dispose of hazardous materials, or simply need to find a convenient trash bin, GoBin has you covered.
+GoBin is an app that leverages the power of AI and Google Maps to provide you with accurate, up-to-date, and geographically relevant waste disposal guidance. Whether you're looking for the nearest recycling center, want to know the best way to dispose of hazardous materials, or simply need to find a convenient trash bin, GoBin has you covered.
 Getting Started
 
 ### Prerequisites:
